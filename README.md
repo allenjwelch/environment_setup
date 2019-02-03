@@ -2,6 +2,7 @@
 
 ## Linux
 ### Standard
+- [Terminator](https://gnometerminator.blogspot.com/p/introduction.html)
 - [Node](https://nodejs.org/en/)
 - [NVM](https://gist.github.com/d2s/372b5943bce17b964a79)
 - [VS Code](https://code.visualstudio.com/docs/setup/linux)
