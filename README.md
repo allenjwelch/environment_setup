@@ -16,3 +16,11 @@
 ### Tessel
 - [t2-cli](https://tessel.gitbooks.io/t2-docs/content/API/CLI.html)
 - [t2](https://tessel.github.io/t2-start/)
+
+
+## Windows
+- [Node](https://nodejs.org/en/)
+- [NVM](https://gist.github.com/d2s/372b5943bce17b964a79)
+- [VS Code](https://code.visualstudio.com)
+- [Github(ssh)](https://help.github.com/articles/connecting-to-github-with-ssh/)
+- [Git Merge Tools](https://gist.github.com/karenyyng/f19ff75c60f18b4b8149)
